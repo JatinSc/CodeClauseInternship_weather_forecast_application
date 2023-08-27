@@ -62,7 +62,9 @@ const App = () => {
       },
       (error) => {
         console.log(error.message);
+        getWeatherData("india")
         setLoading(false); // Done loading even in case of error
+        
       }
     );
   }
