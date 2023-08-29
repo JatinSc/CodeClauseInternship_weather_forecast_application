@@ -36,7 +36,7 @@ Contributions to this project are welcome. If you find any issues or want to add
 This project is licensed under the MIT License.
 
 ## Contact
-If you have any questions or suggestions, feel free to contact me at [your.email@example.com](mailto: jatinwebportfolio@gmail.com).
+If you have any questions or suggestions, feel free to contact me at [your.email@example.com](mailto:jatinwebportfolio@gmail.com).
 
 ## Credits
 ### Background images from 
