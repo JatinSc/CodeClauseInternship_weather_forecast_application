@@ -13,7 +13,7 @@ The Weather Forecast App is a web application that provides real-time weather in
 Get current weather data for a specific city or the user's current location. Display temperature, weather conditions, wind speed, humidity, and more. Determine whether it's day or night in the selected city. Background image changes based on the current weather conditions. Responsive and user-friendly design. Technologies Used React (Frontend library) Axios (HTTP client for API requests) OpenWeatherMap API (Weather data) HTML, CSS (Styling) Geolocation API (For obtaining user's current location)
 
 ## Getting Started Clone the repository:
-`git clone https://github.com/YourGitHubUsername/weather-forecast-app.git` 
+`git clone https://github.com/JatinSc/weather-forecast-app.git` 
 
 ## Navigate to the project directory:
 `cd weather-forecast-app `
